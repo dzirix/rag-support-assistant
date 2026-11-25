@@ -1,6 +1,7 @@
 # RAG Support Assistant — Prototype documentaire
 
 > **Projet personnel — données fictives.** La banque, la base de connaissances et les exemples sont entièrement synthétiques. Aucune clé API, aucun service externe : le prototype tourne en local, avec une génération **simulée**.
+> **© 2026 Hamza Dziri — Tous droits réservés.** Projet personnel publié à titre de démonstration ; toute reproduction ou réutilisation, totale ou partielle, sans autorisation écrite préalable de l'auteur est interdite.
 
 ## Objectif
 
